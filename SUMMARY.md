@@ -34,6 +34,16 @@
 * [Модуль Б](dopolnitelnye-zadachi-po-modulyam/modul-b/README.md)
   * [1 Б1. Работа с различными ветками в репозитории сервисных пакетов (РЧ 2024)](dopolnitelnye-zadachi-po-modulyam/modul-b/1-b1.-rabota-s-razlichnymi-vetkami-v-repozitorii-servisnykh-paketov-rch-2024.md)
   * [2 Б3. Сервисная работа с логами робота (РЧ 2024)](dopolnitelnye-zadachi-po-modulyam/modul-b/2-b3.-servisnaya-rabota-s-logami-robota-rch-2024.md)
+  * [3 Б1. Сервисная работа с bag файлами робота (Итог 2024)](dopolnitelnye-zadachi-po-modulyam/modul-b/3-b1.-servisnaya-rabota-s-bag-failami-robota-itog-2024.md)
+
+***
+
+* [Модуль В](modul-v/README.md)
+  * [В. Аварийный ремонт робота-собаки (Итог 2024)](modul-v/v.-avariinyi-remont-robota-sobaki-itog-2024.md)
+* [Модуль Г](modul-g/README.md)
+  * [1 Г2-3 Проведение рабочих испытаний робота-экскурсовода (итог 2024)](modul-g/1-g2-3-provedenie-rabochikh-ispytanii-robota-ekskursovoda-itog-2024.md)
+* [Модуль Е](modul-e/README.md)
+  * [Е Модификация поведения робота (итог 2024)](modul-e/e-modifikaciya-povedeniya-robota-itog-2024.md)
 
 ## Техническое
 
