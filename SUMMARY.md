@@ -29,6 +29,12 @@
 * [6. Модуль Е](zadanie-chempionata-professionaly/6.-modul-e.md)
 * [6. Модуль Е. Решение](zadanie-chempionata-professionaly/6.-modul-e.-reshenie.md)
 
+## Дополнительные задачи по модулям
+
+* [Модуль Б](dopolnitelnye-zadachi-po-modulyam/modul-b/README.md)
+  * [1 Б1. Работа с различными ветками в репозитории сервисных пакетов (РЧ 2024)](dopolnitelnye-zadachi-po-modulyam/modul-b/1-b1.-rabota-s-razlichnymi-vetkami-v-repozitorii-servisnykh-paketov-rch-2024.md)
+  * [2 Б3. Сервисная работа с логами робота (РЧ 2024)](dopolnitelnye-zadachi-po-modulyam/modul-b/2-b3.-servisnaya-rabota-s-logami-robota-rch-2024.md)
+
 ## Техническое
 
 * [Абилимпикс](tekhnicheskoe/abilimpiks/README.md)
