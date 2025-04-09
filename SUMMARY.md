@@ -62,4 +62,5 @@
 
 ## Задание чемпионата "Абилимпикс"
 
-* [Page 2](zadanie-chempionata-abilimpiks/page-2.md)
+* [1. Модуль А. Задание](zadanie-chempionata-abilimpiks/1.-modul-a.-zadanie.md)
+* [Page](zadanie-chempionata-abilimpiks/page.md)
