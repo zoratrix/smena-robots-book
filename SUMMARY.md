@@ -59,3 +59,7 @@
 * [Подготовка мастер-класса](tekhnicheskoe/podgotovka-master-klassa/README.md)
   * [мастер-класс проверка](tekhnicheskoe/podgotovka-master-klassa/master-klass-proverka.md)
   * [Настройка рабочего места](tekhnicheskoe/podgotovka-master-klassa/nastroika-rabochego-mesta.md)
+
+## Задание чемпионата "Абилимпикс"
+
+* [Page 2](zadanie-chempionata-abilimpiks/page-2.md)
