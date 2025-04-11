@@ -64,3 +64,8 @@
 
 * [1. Модуль А. Задание](zadanie-chempionata-abilimpiks/1.-modul-a.-zadanie.md)
 * [1. Модуль А. Решение](zadanie-chempionata-abilimpiks/1.-modul-a.-reshenie.md)
+
+***
+
+* [3 Модуль В. Задание](3-modul-v.-zadanie.md)
+* [3 Модуль В. Решение](3-modul-v.-reshenie.md)
